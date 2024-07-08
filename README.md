@@ -4,4 +4,4 @@ Welcome to my Machine Learning study repository! This repository contains variou
 
 <h3>Introduction </h3>
 
-This repository is a collection of machine learning projects and study materials. The goal is to explore different machine learning algorithms, techniques, and tools using Python. Each project folder contains a README with specific details about the project, datasets used, and steps to run the code.
+This repository is a collection of machine learning projects and study materials. The goal is to explore different machine learning algorithms, techniques, and tools using Python.
